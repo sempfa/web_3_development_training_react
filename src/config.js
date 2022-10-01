@@ -1,0 +1,1 @@
+export const FundProjectForOwner_ADDRESS = "0xDC59011bcd7190aF793CDa7AC67D932833835637";
